@@ -1,6 +1,6 @@
 import Header from "./components/Header";
 import Hero from "./components/Hero";
-//import About from "./components/About";
+import About from "./components/About";
 //import Catalog from "./components/Catalog";
 //import Testimonials from "./components/Testimonials";
 //import Steps from "./components/Steps";
@@ -12,6 +12,7 @@ function App() {
     <div className="px-6">
       <Header />
       <Hero />
+      <About />
     </div>
   );
 }
