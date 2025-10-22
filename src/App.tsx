@@ -9,7 +9,7 @@ import Hero from "./components/Hero";
 
 function App() {
   return (
-    <div className="font-sans">
+    <div className="px-6">
       <Header />
       <Hero />
     </div>
